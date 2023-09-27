@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../WORD"
+		},
+		{
+			"path": "../../../bom"
+		},
+		{
+			"path": "../../../jobApplication"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../DOM"
+		},
+		{
+			"path": "../../../Modulos"
+		},
+		{
+			"path": "../../../Introduccion"
+		}
+	],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "proyecto"
+  }
+}
