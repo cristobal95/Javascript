@@ -21,6 +21,7 @@ formulario.addEventListener('keyup', (e) => {
   }
 });
 
+
 const btnSubmit = document.getElementById('formulario__btn');
 btnSubmit.addEventListener('click', (e) => {
   e.preventDefault();
